@@ -1,3 +1,4 @@
+# python2
 import math
 r = lambda: map(int, raw_input().split())
 def cross(a, b):
