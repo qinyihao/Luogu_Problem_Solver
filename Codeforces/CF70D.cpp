@@ -48,4 +48,5 @@ int main() {
 			add(down, x, -y);
 		} else cout << (inside(up, x, y) && inside(down, x, -y) ? "YES\n" : "NO\n");
 	}
+	return 0;
 }
